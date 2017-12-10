@@ -29,7 +29,7 @@ RUN set -ex \
  && pip install \
 	pyasn1 \
         Mopidy-Moped \
-	      Mopidy-MusicBox-Webclient \
+	Mopidy-MusicBox-Webclient \
         Mopidy-GMusic \
  && apt-get purge --auto-remove -y \
         curl \
