@@ -1,0 +1,1 @@
+## [Mopidy](https://github.com/bestlibre/hassio-addons/tree/master/mopidy) [![](https://images.microbadger.com/badges/version/bestlibre/armhf-mopidy.svg)](https://microbadger.com/images/bestlibre/armhf-mopidy "Get your own version badge on microbadger.com")
