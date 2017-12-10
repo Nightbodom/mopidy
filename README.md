@@ -9,6 +9,7 @@ Mopidy is built with those extensions :
 
 - Mopidy-Moped
 - Mopidy-GMusic
+- Mopidy-Musicbox-webclient
 - Mopidy-Local-SQLite
 - Mopidy-Spotify
 
